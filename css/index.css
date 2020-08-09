@@ -665,7 +665,7 @@ kbd {
 }
 .content-wrap {
   width: calc(100% - 330px);
-  float: left;
+  float: right;
 }
 .content-wrap--noside {
   float: none;
@@ -892,6 +892,7 @@ kbd {
   z-index: 0;
   width: 100%;
   height: 100%;
+  background: url("http://cdn.motongxue.cn/top-background.jpg") no-repeat center/cover;
 }
 .header-banner-info {
   position: absolute;
@@ -917,12 +918,6 @@ kbd {
   font-size: 1.2rem;
   font-weight: 400;
   color: #f5f6f7;
-}
-.footer__icon {
-  display: inline-block;
-  margin: 0 0.4rem;
-  font-size: 1em;
-  color: #f00;
 }
 .footer-inner {
   position: relative;
@@ -969,7 +964,7 @@ kbd {
 }
 .sidebar-wrap {
   width: 300px;
-  float: right;
+  float: left;
 }
 .sidebar-nav {
   padding-bottom: 1em;
@@ -1042,6 +1037,7 @@ kbd {
   opacity: 1;
   -ms-filter: none;
   filter: none;
+  border-radius: 50%;
 }
 .sidebar-ov-author__avatar:hover .sidebar-ov-author__avatar_img {
   -webkit-animation: avatar-turn 0.8s both ease-out;
