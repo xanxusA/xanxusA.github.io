@@ -81,20 +81,6 @@
   </url>
   
   <url>
-    <loc>https://xanxusa.github.io/tags/Spring5/</loc>
-    <lastmod>2020-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xanxusa.github.io/tags/%E6%95%A3%E7%82%B9/</loc>
-    <lastmod>2020-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xanxusa.github.io/tags/%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE/</loc>
     <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
@@ -115,6 +101,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://xanxusa.github.io/tags/Spring5/</loc>
+    <lastmod>2020-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xanxusa.github.io/tags/%E6%95%A3%E7%82%B9/</loc>
+    <lastmod>2020-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -125,14 +125,14 @@
   </url>
   
   <url>
-    <loc>https://xanxusa.github.io/categories/Develop/</loc>
+    <loc>https://xanxusa.github.io/categories/Reading/</loc>
     <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xanxusa.github.io/categories/Reading/</loc>
+    <loc>https://xanxusa.github.io/categories/Develop/</loc>
     <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
